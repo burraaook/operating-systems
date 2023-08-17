@@ -25,7 +25,7 @@ Run - File system operations
 
 # Warnings
 - "\\" character is the separator since this is a DOS file system  
-- "\\\" character for root directory operations if you are testing on bash  
+- "\\\\" character for root directory operations if you are testing on bash  
 
 ```
 $ .\fileSystemOper fileSystem.data dir "\\"
