@@ -24,8 +24,8 @@ Run - File system operations
 - Other details, and test results are in the doc.pdf file.  
 
 # Warnings
-- "\" character is the separator since this is a DOS file system  
-- "\\" character for root directory operations if you are testing on bash  
+- "\\" character is the separator since this is a DOS file system  
+- "\\\" character for root directory operations if you are testing on bash  
 
 ```
 $ .\fileSystemOper fileSystem.data dir "\\"
